@@ -54,14 +54,4 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-    // rxbinding
-    implementation 'com.jakewharton.rxbinding4:rxbinding-core:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-appcompat:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-drawerlayout:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-recyclerview:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-slidingpanelayout:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-swiperefreshlayout:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-viewpager:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-viewpager2:4.0.0'
-    implementation 'com.jakewharton.rxbinding4:rxbinding-material:4.0.0'
 }
